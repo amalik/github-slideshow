@@ -17,6 +17,7 @@ GEM
       ruby-enum (~> 0.5)
     concurrent-ruby (1.1.7)
     dnsruby (1.61.4)
+      addressable (~> 2.5))
       simpleidn (~> 0.1)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
